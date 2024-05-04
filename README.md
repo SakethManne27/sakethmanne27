@@ -48,5 +48,5 @@
 
 - 👨‍💻 Checkout my portfolio [HERE](https://kypamourya13.github.io/)
 - 💬 Ask me about **DevOps**
-- 📫 How to reach me **[kypamourya13@gmail.com](mailto:kypamourya13@gmail.com)**
+- 📫 How to reach me **[sakethmanne9@gmail.com](mailto:sakethmanne9@gmail.com)**
 - ⚡ Fun fact **I love driving 🚘**
